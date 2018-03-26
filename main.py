@@ -7,3 +7,5 @@ FPS = 10
 while not est_fermee(w):
 	# Du contenu incoming lol
 	attendre_pendant(w, 1000/FPS)
+#haha
+#je suis un génie
